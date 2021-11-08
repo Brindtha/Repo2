@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="18.113">
+    <testcase classname="To test the amazon page" name="To test the login functionality" time="16.606">
+        <system-out><![CDATA[Given the user launches the amazon URL......................................passed
+When the user enters username "7395962366"..................................passed
+And the user enters password "password@123".................................passed
+And the user clicks signIn button...........................................passed
+Then the user verifies titile & url of the page.............................passed
+]]></system-out>
+    </testcase>
+</testsuite>
